@@ -1,46 +1,46 @@
 # SITE CONFIGURATION
-baseurl: "/Type-on-Strap"
-url: "https://sylhare.github.io"
-title: Type on Strap # site's title
-description: "A website with blog posts and pages" # used by search engines
+baseurl: ""
+url: "https://pravinvedurla.github.io"
+title: "The Intuitive Techie" # site's title
+description: "One Stop For All The Cool Tech" # used by search engines
 
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
-  title: Type on Strap # blog's title
+  title: TheIntuitiveTechie # blog's title
   avatar: assets/img/triangle.svg
   favicon: assets/favicon.ico
   gravatar: # Email MD5 hash
 
   # Header and footer text
   header_text: > #two or three lines to describe your site
-     <p>Change header text in <code>_config.yml</code> <br> to update this feature.</p>
+     <p>My work on cool Machine Learning projects and my portfolio aswell</p>
   header_text_feature_image: assets/img/pexels/triangular.jpeg
   footer_text: >
    Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/sylhare/Type-on-Strap">Type on Strap</a>
 
   # Icons
   rss: true  # Make sure you created a feed.xml with feed.xml layout
-  email_address: # Full email address, e.g. "sam@example.com"
+  email_address: vpravin98@gmail.com # Full email address, e.g. "sam@example.com"
   behance:
   bitbucket:
   dribbble:
-  facebook:
+  facebook: facebook.com/pravinvedurla
   flickr:
   gitlab:
-  github: "sylhare"
+  github: "pravinvedurla"
   google_plus:
   instagram:
   keybase:
   linkedin:  # Full URL
   pinterest:
-  reddit:
+  reddit: reddit.com/theexclusivenig  
   soundcloud:
   stack_exchange:  # Full URL
-  steam:
+  steam: 
   tumblr:
-  twitter: # "twitter username"
+  twitter: "pravinvedurla" # "twitter username"
   vimeo:
   wordpress:
   youtube:
@@ -59,7 +59,7 @@ theme_settings:
     email: true
 
   # Scripts / Features 
-  google_analytics: # Tracking ID, e.g. "UA-000000-01"
+  google_analytics:  # Tracking ID, e.g. "UA-000000-01"
   disqus_shortname:
   katex: true # Enable if using math markup
   
